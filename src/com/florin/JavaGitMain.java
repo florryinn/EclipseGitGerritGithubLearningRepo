@@ -4,7 +4,7 @@ public class JavaGitMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("fourth test - second with jenkins integration");
+		System.out.println("5");
 	}
 
 }
